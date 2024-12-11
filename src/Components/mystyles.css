@@ -1,0 +1,7 @@
+.container{
+    border: 2px solid grey;
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    height: 50vh;
+}

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "jsx": "react",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "allowJs": true, // To allow JavaScript files alongside TypeScript
+  },
+  "include": ["src"], // Include the src folder for TypeScript
+  "exclude": ["node_modules"] // Exclude node_modules folder
+}
